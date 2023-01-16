@@ -1,0 +1,7 @@
+C:\Users\dario\OneDrive\Documents\GitHub\Random_7\Random7\Random7\bin\Debug\Random7.exe.config
+C:\Users\dario\OneDrive\Documents\GitHub\Random_7\Random7\Random7\bin\Debug\Random7.exe
+C:\Users\dario\OneDrive\Documents\GitHub\Random_7\Random7\Random7\bin\Debug\Random7.pdb
+C:\Users\dario\OneDrive\Documents\GitHub\Random_7\Random7\Random7\obj\Debug\Random7.csproj.AssemblyReference.cache
+C:\Users\dario\OneDrive\Documents\GitHub\Random_7\Random7\Random7\obj\Debug\Random7.csproj.CoreCompileInputs.cache
+C:\Users\dario\OneDrive\Documents\GitHub\Random_7\Random7\Random7\obj\Debug\Random7.exe
+C:\Users\dario\OneDrive\Documents\GitHub\Random_7\Random7\Random7\obj\Debug\Random7.pdb
